@@ -23,7 +23,7 @@ More than 500 sales records were analyzed to uncover trends and performance metr
 
 ## Tools & Libraries
 
-- Python 3
+- Python 
 - Pandas
 - NumPy
 - Matplotlib
